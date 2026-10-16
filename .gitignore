@@ -53,3 +53,6 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# Linux executables (no extension)
+C/0.hello world/hello
